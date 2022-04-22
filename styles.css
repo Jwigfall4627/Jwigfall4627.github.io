@@ -1,0 +1,32 @@
+*{
+    color:brown;
+    margin:0px;
+    text-align: center;
+}
+
+
+
+h1{
+    color:aqua;
+    text-align:center;
+    padding:30px;
+    background-color: black;
+}
+
+body{
+ background-color: aqua;
+}
+
+.FirstImage{
+    margin-top: 10px;
+    margin-bottom:5px;
+    border:solid,cornflowerblue;
+
+    border-radius: 1000px;
+}
+
+.FirstPTag{
+    margin-bottom:7px;
+}
+
+a:link{text-decoration:none}
